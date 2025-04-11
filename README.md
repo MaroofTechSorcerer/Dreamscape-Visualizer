@@ -19,11 +19,11 @@ A beginner-friendly **text-to-image dream generator** using **Stable Diffusion X
 
 ### Prompt Input Interface
 
-![Prompt UI](screenshots/app_homepage.png)
+![Prompt UI](Screenshots/Home_Page.png)
 
 ### Generated Dream Output
 
-![Dream Output](screenshots/generated_output.png)
+![Dream Output](Screenshots/Generated_Image.png)
 
 > Add your screenshots in a folder called `screenshots/`.
 
