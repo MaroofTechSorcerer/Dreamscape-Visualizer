@@ -25,7 +25,7 @@ A beginner-friendly **text-to-image dream generator** using **Stable Diffusion X
 
 ![Dream Output](Screenshots/Generated_Image.png)
 
-> Add your screenshots in a folder called `screenshots/`.
+
 
 ---
 
