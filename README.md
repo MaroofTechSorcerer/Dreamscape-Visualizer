@@ -1,7 +1,12 @@
-
 # 🌌 Dreamscape Visualizer (HD)
 
 A beginner-friendly **text-to-image dream generator** using **Stable Diffusion XL** and an interactive **Streamlit** UI — designed to turn your imagination into high-quality visuals.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Dreamscape Visualizer on Hugging Face Spaces](https://huggingface.co/spaces/MaroofTechSorcerer/dreamscape-visualizer)
 
 ---
 
