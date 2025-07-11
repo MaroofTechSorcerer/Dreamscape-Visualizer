@@ -6,7 +6,7 @@ A beginner-friendly **text-to-image dream generator** using **Stable Diffusion X
 
 ## 🌐 Live Demo
 
-👉 [Dreamscape Visualizer on Hugging Face Spaces](https://huggingface.co/spaces/MaroofTechSorcerer/dreamscape-visualizer)
+👉 [Dreamscape Visualizer Live](https://huggingface.co/spaces/MaroofTechSorcerer/dreamscape-visualizer)
 
 ---
 
